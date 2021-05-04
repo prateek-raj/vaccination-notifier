@@ -1,0 +1,25 @@
+{
+  "name": "vaccination-notifier",
+  "version": "1.0.0",
+  "description": "To get the notification when vaccination is available in your area",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/prateek9958/vaccination-notifier.git"
+  },
+  "keywords": [
+    "Vaccination",
+    "Notification",
+    "using",
+    "pincode"
+  ],
+  "author": "Prateek Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateek9958/vaccination-notifier/issues"
+  },
+  "homepage": "https://github.com/prateek9958/vaccination-notifier#readme"
+}
